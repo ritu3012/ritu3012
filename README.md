@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritu3012
-- 👀 I’m interested in webdeploment
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in learning new skill
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
